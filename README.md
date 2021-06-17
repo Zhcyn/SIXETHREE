@@ -1,0 +1,2 @@
+# SIXETHREE
+This is an application that records how your pet snake should be fed. Although some people don't like it, we still like cold-blooded animals. Our app currently adds food planning based on the body weight of the snake. The current project is still under development, and we will add more varieties and make the interface more acceptable in the later period. If you encounter problems during the test, please contact me.
